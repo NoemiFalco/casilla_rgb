@@ -1,0 +1,2 @@
+# casilla_rgb
+cuadrícula
